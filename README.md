@@ -2,4 +2,4 @@
 A test task for a job application 
 
 # Instructions
-In order to run the app just run the command `npm run start`
+In order to start the app just run the command `npm run start`
